@@ -1,9 +1,24 @@
 #top-banner{
-    background-color: aquamarine;
+    background-color: darkgray;
     border-radius: 20px;
     padding: 25px;
     margin: auto;
-    width: 50%;
+    width: 40%;
     text-align: center;
+}
 
+.top-conatiner{
+    
+    margin: auto;
+    margin-top: 50px;
+    background-color: aquamarine;
+    border-radius: 25px;
+    width: 70%;
+    color: black;
+    font-weight: bold;
+    padding: 25px;
+    
+}
+.top-conatiner h3{
+    color: deeppink;
 }
